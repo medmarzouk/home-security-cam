@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "297854507177",
+    "firebase_url": "https://home-security-cam-bf73c-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "home-security-cam-bf73c",
+    "storage_bucket": "home-security-cam-bf73c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297854507177:android:2c02064e93000982c931b8",
+        "android_client_info": {
+          "package_name": "com.example.drivety"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWUKHfJCFRlkZ4LFavNRkVnCEUbw4xCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297854507177:android:7a7d94a0e467f97fc931b8",
+        "android_client_info": {
+          "package_name": "com.example.secuhome"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWUKHfJCFRlkZ4LFavNRkVnCEUbw4xCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297854507177:android:ecff835a4c9f2967c931b8",
+        "android_client_info": {
+          "package_name": "com.exemple.homesecuritycam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWUKHfJCFRlkZ4LFavNRkVnCEUbw4xCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297854507177:android:e96f89f21974e530c931b8",
+        "android_client_info": {
+          "package_name": "tn.exemple.homesecuritycam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqWUKHfJCFRlkZ4LFavNRkVnCEUbw4xCg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
